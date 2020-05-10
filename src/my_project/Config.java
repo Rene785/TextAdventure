@@ -10,7 +10,7 @@ public class Config {
     public final static String WINDOW_TITLE = "Unnamed KAGO-Project";
 
     // Breite des Programmfensters (Width) und Höhe des Programmfensters (Height)
-    public final static int WINDOW_WIDTH = 1400;
+    public final static int WINDOW_WIDTH = 1300;
     public final static int WINDOW_HEIGHT = 979;   // Effektive Höhe ist etwa 29 Pixel geringer (Titelleiste wird mitgezählt)
 
     // Weitere Optionen für das Projekt
